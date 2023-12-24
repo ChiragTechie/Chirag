@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm chirag</h1>
-<h2>👋 Hi there! I'm Chirag, an Electronics and Communication Engineering student 🚀. Passionate about all things tech, I'm diving into the world of circuits, signals, and communication systems. Currently honing my skills in [specific areas or projects]. Outside the world of electronics, you might catch me exploring [your other interests/hobbies]. Let's connect and explore the vast possibilities together! 🌐
+<h2 align="center">
+ 👋 Hi there! I'm Chirag, an Electronics and Communication Engineering student 🚀. Passionate about all things tech, I'm diving into the world of circuits, signals, and communication systems. Currently honing my skills in [specific areas or projects]. Outside the world of electronics, you might catch me exploring [your other interests/hobbies]. Let's connect and explore the vast possibilities together! 🌐
 </h2>
 📫 How to reach me **chiragsuvarnac@gmail.com**
 
