@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm chirag</h1>
 <h2 align="center">
- 👋 Hi there! I'm Chirag, an Electronics and Communication Engineering student 🚀. Passionate about tech, I'm diving into the world of circuits, signals, and communication systems. Outside the world of electronics, you might catch me exploring more about software and forex market. Let's connect and explore the vast possibilities together! 🌐
+ 👋 Hi there! I'm an Electronics and Communication Engineering student 🚀. Passionate about tech, I'm diving into the world of circuits, signals, and communication systems. Outside the world of electronics, you might catch me exploring more about software and forex market. Let's connect and explore the vast possibilities together! 🌐
 </h2>
 📫 How to reach me **chiragsuvarnac@gmail.com**
 
